@@ -1,6 +1,6 @@
 # codingGame-back-end
 
-in the conext of Maltem recruting process, this application is a coding game so that to give an idea about my technical skills.
+in the conext of Maltem recruiting process, this application is a coding game so that to give an idea about my technical skills.
 the application was designed in two parts :
 
 # part 1 : back end 
